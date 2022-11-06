@@ -1,11 +1,13 @@
 # Git and GitHub Assignment - Parking Infractions Analysis
 
 ## Description
+
 This repository was created as part of an assignment for the Data Science Foundations course at the University of Toronto's Data Sciences Institute. The assignment involves creating a repository on GitHub and pushing a shell script, a CSV file and a README file to the repository. 
 
 The shell script is written in bash and takes the CSV file as a positional parameter from the terminal as the input. The CSV file is a dataset containing information related to parking tickets issued in Toronto, and is downloadable from the [City of Toronto](https://open.toronto.ca/dataset/parking-tickets/) website.
 
 ## Usages
+
 The script takes the `parking_data.csv` file as a positional parameter from the terminal as the input:
 ![w:1000 left](images/csv- as-positional-parameter.jpg)
 
@@ -15,10 +17,10 @@ It then outputs in alphabetical order the different types of parking infractions
 For each instance of the infraction "parking in a fire route" listed in the CSV file, the script outputs the infraction description, the fine amount and the street address, along with their original headings to a separate CSV file called `firerouteinfraction.csv`:
 ![w:1000 left](images/fire-route-infractions-csv.jpg)
 
-
 ## How to Use 
 
 ### Files relevant for running the script
+
 - assignment1.sh (main directory/folder)
 - parking_data.csv (data subdirectory/folder)
 
@@ -33,9 +35,11 @@ If you wish to
 6. Enter `./assignment1.sh data/parking_data.csv` on the command line to execute the script, taking the `parking_data.csv` file in the `data` subdirectory as its input.
 
 ## Support
+
 For help with installation or running the script, please email sally.choi@utoronto.ca.
 
 ## Contributors
+
 ```Sally Choi - https://github.com/smychoi
 ```Yongran Yan - https://github.com/KaryYan
 
