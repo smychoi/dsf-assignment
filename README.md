@@ -39,7 +39,7 @@ For help with installation or running the script, please email sally.choi@utoron
 
 ## Contributors
 
-Sally Choi - https://github.com/smychoi
-Yongran Yan - https://github.com/KaryYan
+- Sally Choi - https://github.com/smychoi
+- Yongran Yan - https://github.com/KaryYan
 
-Big thanks to our instructor Rachael Lam and teaching assistant Salaar Liaqat for their guidance and support on the assignment and throughout the course.
+A note of acknowledgement and thanks to our course instructor Rachael Lam and teaching assistant Salaar Liaqat for their guidance and support on the assignment and throughout the course.
