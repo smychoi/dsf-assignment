@@ -9,7 +9,7 @@ The shell script is written in bash and takes the CSV file as a positional param
 ## Usages
 
 The script takes the `parking_data.csv` file as a positional parameter from the terminal as the input:
-![w:1000 left](images/csv- as-positional-parameter.jpg)
+![w:1000 left](images/csv-as-positional-parameter.jpg)
 
 It then outputs in alphabetical order the different types of parking infractions to the terminal, as well as calculate the mean, minimum and maximum values of all parking fines:
 ![w:1000 left](images/assignment-output.jpg)
@@ -26,7 +26,6 @@ For each instance of the infraction "parking in a fire route" listed in the CSV 
 
 ### Download assignment files
 
-If you wish to 
 1. Scroll to the top of the repository main page, and click on the green "Code" button. 
 2. Select "Download ZIP," and save the file on your computer.
 3. Right click on the zipped file, select extract all, and select a directory on your Desktop you would like to extract all of the project files to.
@@ -40,7 +39,7 @@ For help with installation or running the script, please email sally.choi@utoron
 
 ## Contributors
 
-```Sally Choi - https://github.com/smychoi
-```Yongran Yan - https://github.com/KaryYan
+Sally Choi - https://github.com/smychoi
+Yongran Yan - https://github.com/KaryYan
 
 Big thanks to our instructor Rachael Lam and teaching assistant Salaar Liaqat for their guidance and support on the assignment and throughout the course.
