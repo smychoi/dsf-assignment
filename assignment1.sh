@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#navigates to directory housing parking_data.csv file
-cd ~/Desktop
-
 #takes parking_data.csv file as a positional parameter from the terminal as the input
 csv_file=$1
 
