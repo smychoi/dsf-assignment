@@ -4,12 +4,12 @@
 
 This repository was created as part of an assignment for the Data Science Foundations course at the University of Toronto's Data Sciences Institute. The assignment involves creating a repository on GitHub and pushing a shell script, a CSV file and a README file to the repository. 
 
-The shell script is written in bash and takes the CSV file as a positional parameter from the terminal as the input. The CSV file is a dataset containing information related to parking tickets issued in Toronto, and is downloadable from the [City of Toronto](https://open.toronto.ca/dataset/parking-tickets/) website.
+The shell script is written in bash. The CSV file is a dataset containing information related to parking tickets issued in Toronto, and is downloadable from the [City of Toronto](https://open.toronto.ca/dataset/parking-tickets/) website.
 
 ## Usages
 
 The script takes the `parking_data.csv` file as a positional parameter from the terminal as the input:
-![w:1000 left](images/csv-as-positional-parameter.jpg)
+![w:1000 left](images/csv-positional-parameter.jpg)
 
 It then outputs in alphabetical order the different types of parking infractions to the terminal, as well as calculate the mean, minimum and maximum values of all parking fines:
 ![w:1000 left](images/assignment-output.jpg)
