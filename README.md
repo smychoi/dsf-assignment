@@ -12,9 +12,11 @@ The script takes the `parking_data.csv` file as a positional parameter from the 
 
 
 It then outputs in alphabetical order the different types of parking infractions to the terminal, as well as calculate the mean, minimum and maximum values of all parking fines:
+
 ![w:1000 left](images/assignment-output.jpg)
 
 For each instance of the infraction "parking in a fire route" listed in the CSV file, the script outputs the infraction description, the fine amount and the street address, along with their original headings to a separate CSV file called `firerouteinfraction.csv`:
+
 ![w:1000 left](images/fire-route-infractions-csv.jpg)
 
 ## How to Use 
@@ -24,7 +26,7 @@ For each instance of the infraction "parking in a fire route" listed in the CSV 
 - assignment1.sh (main directory/folder)
 - parking_data.csv (data subdirectory/folder)
 
-### Download assignment files
+### Steps to download assignment files and run script
 
 1. Scroll to the top of the repository main page, and click on the green "Code" button. 
 2. Select "Download ZIP," and save the file on your computer.
