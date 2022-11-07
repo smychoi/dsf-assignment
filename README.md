@@ -1,4 +1,4 @@
-# Git and GitHub Assignment - Parking Infractions Analysis
+# Git and GitHub Assignment - Parking Infractions Script
 
 ## Description
 
@@ -35,7 +35,7 @@ For each instance of the infraction "parking in a fire route" listed in the CSV 
 
 ## Support
 
-For help with installation or running the script, please email sally.choi@utoronto.ca.
+For help with installation or running the script, please email sally[dot]choi[at]utoronto[dot]ca.
 
 ## Contributors
 
