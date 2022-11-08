@@ -11,7 +11,7 @@ The shell script is written in bash. The CSV file is a dataset containing inform
 The script takes the `parking_data.csv` file as a positional parameter from the terminal as the input so that the script can be run from any computer, as long as you have the CSV file.
 
 
-It then outputs in alphabetical order the different types of parking infractions to the terminal, as well as calculate the mean, minimum and maximum values of all parking fines:
+It then outputs in alphabetical order the different types of parking infractions to the terminal, as well as calculates the mean, minimum and maximum values of all parking fines:
 
 ![w:1000 left](images/assignment-output.jpg)
 
@@ -37,10 +37,8 @@ For each instance of the infraction "parking in a fire route" listed in the CSV 
 
 ## Support
 
-For help with installation or running the script, please email sally[dot]choi[at]utoronto[dot]ca.
+For help with installation or running the script, please [create an issue](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
 
-## Contributors
+## Contribute
 
-- Sally Choi - https://github.com/smychoi
-
-A note of acknowledgement and thanks to our course instructor Rachael Lam and teaching assistant Salaar Liaqat for their guidance and support on the assignment and throughout the course.
+To contribute to the project, please feel free to [make a copy of the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) to add or make changes. To upload changes, create a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request) to merge your changes with the repository.
