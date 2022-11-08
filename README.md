@@ -30,9 +30,9 @@ For each instance of the infraction "parking in a fire route" listed in the CSV 
 
 1. Scroll to the top of the repository main page, and click on the green "Code" button. 
 2. Select "Download ZIP," and save the file on your computer.
-3. Right click on the zipped file, select extract all, and select a directory on your Desktop you would like to extract all of the project files to.
+3. Right click on the zipped file, select extract all, and select a directory you would like to extract all of the project files to.
 4. Open a Linux terminal. (e.g., [Ubuntu](https://ubuntu.com/))
-5. Change the working directory to the directory that contains the assignment1.sh file using `cd`. For example, if the file exists in a directory called `dsf-assignment` on your Desktop, enter `cd ~/Desktop/dsf-assignment` on the command line.
+5. Change the working directory to the directory that contains the assignment1.sh file using `cd`. For example, if the file exists in a directory called `dsf-assignment` on your desktop, enter `cd ~/Desktop/dsf-assignment` on the command line.
 6. Enter `./assignment1.sh data/parking_data.csv` on the command line to execute the script, taking the `parking_data.csv` file in the `data` subdirectory as its input.
 
 ## Support
